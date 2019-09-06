@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Android Pemula Submission</string>
+
+    <string name="kotlin">Kotlin</string>
+    <string name="kotlin_born">2011</string>
+    <string name="kotlin_founder">JetBrains dan kontributor sistem terbuka</string>
+    <string name="kotlin_desc">Kotlin adalah sebuah bahasa pemrograman dengan pengetikan statis yang berjalan pada Mesin Virtual Java</string>
+    <string name="kotlin_desc_long">Kotlin adalah sebuah bahasa pemrograman dengan pengetikan statis yang berjalan pada Mesin Virtual Java ataupun menggunakan kompiler LLVM yang dapat pula dikompilasikan kedalam bentuk kode sumber JavaScript. Pengembang utamanya berasal dari tim programer dari JetBrains yang bermarkas di Rusia. Meskipun sintaksisnya tidak kompatibel dengan bahasa Java, Kotlin didesain untuk dapat bekerja sama dengan kode bahasa Java dan bergantung kepada kode bahasa Java dari Kelas Pustaka Java yang ada, seperti berbagai framework Java yang ada. Tim Pengembang memutuskan menamakannya Kotlin dengan mengambil nama dari sebuah pulau di Rusia, sebagaimana Java yang mengambil nama dari pulau Jawa di Indonesia. Setelah Google mengumumkan bahwa Kotlin menjadi bahasa kelas satu bagi Android, maka bersama Java dan C++, Kotlin menjadi bahasa resmi untuk pengembangan aplikasi-aplikasi Android.</string>
+    <string name="kotlin_site">https://kotlinlang.org/</string>
+
+    <string name="Java">Java</string>
+    <string name="Java_born">1990</string>
+    <string name="Java_founder">Sun Microsystem</string>
+    <string name="Java_desc">Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam.</string>
+    <string name="Java_desc_long">Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam. Bahasa ini awalnya dibuat oleh James Gosling saat masih bergabung di Sun Microsystems saat ini merupakan bagian dari Oracle dan dirilis tahun 1995. Bahasa ini banyak mengadopsi sintaksis yang terdapat pada C dan C++ namun dengan sintaksis model objek yang lebih sederhana serta dukungan rutin-rutin aras bawah yang minimal. Aplikasi-aplikasi berbasis java umumnya dikompilasi ke dalam p-code (bytecode) dan dapat dijalankan pada berbagai Mesin Virtual Java (JVM). Java merupakan bahasa pemrograman yang bersifat umum/non-spesifik (general purpose), dan secara khusus didisain untuk memanfaatkan dependensi implementasi seminimal mungkin. Karena fungsionalitasnya yang memungkinkan aplikasi java mampu berjalan di beberapa platform sistem operasi yang berbeda, java dikenal pula dengan slogannya, "Tulis sekali, jalankan di mana pun". Saat ini java merupakan bahasa pemrograman yang paling populer digunakan, dan secara luas dimanfaatkan dalam pengembangan berbagai jenis perangkat lunak aplikasi ataupun aplikasi</string>
+    <string name="Java_site">https://www.java.com/</string>
+
+    <string name="Swift">Swift</string>
+    <string name="Swift_born">2014</string>
+    <string name="Swift_founder">Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.</string>
+    <string name="Swift_desc">Swift adalah bahasa pemrograman objek fungsional untuk pengembangan iOS dan OS X yang dibuat oleh Apple.</string>
+    <string name="Swift_desc_long">Swift adalah bahasa pemrograman objek fungsional untuk pengembangan iOS dan OS X yang dibuat oleh Apple.</string>
+    <string name="Swift_site">https://swift.org/</string>
+
+    <string name="Cpp">C++</string>
+    <string name="Cpp_born">1998</string>
+    <string name="Cpp_founder">Bjarne Stroustrup</string>
+    <string name="Cpp_desc">C++ adalah bahasa pemrograman komputer yang di buat oleh Bjarne Stroustrup.</string>
+    <string name="Cpp_desc_long">Bahasa C++ diturunkan dari bahasa sebelumnya, yaitu B, Pada awalnya, bahasa tersebut dirancang sebagai bahasa pemrograman yang dijalankan pada sistem Unix, Pada perkembangannya, versi ANSI (American National Standart Institute) Bahasa pemrograman C menjadi versi dominan, Meskipun versi tersebut sekarang jarang dipakai dalam pengembangan sistem dan jaringan maupun untuk sistem embedded, Bjarne Stroustrup pada Bel labs pertama kali mengembangkan C++ pada awal 1980-an.</string>
+    <string name="Cpp_site">http://www.cplusplus.com/</string>
+
+    <string name="Python">Python</string>
+    <string name="Python_born">1991</string>
+    <string name="Python_founder">Guido van Rossum</string>
+    <string name="Python_desc">Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi perancangan yang berfokus pada tingkat keterbacaan kode.</string>
+    <string name="Python_desc_long">Python diklaim sebagai bahasa yang menggabungkan kapabilitas, kemampuan, dengan sintaksis kode yang sangat jelas, dan dilengkapi dengan fungsionalitas pustaka standar yang besar serta komprehensif. Python juga didukung oleh komunitas yang besar. Python mendukung multi paradigma pemrograman, utamanya; namun tidak dibatasi; pada pemrograman berorientasi objek, pemrograman imperatif, dan pemrograman fungsional. Salah satu fitur yang tersedia pada python adalah sebagai bahasa pemrograman dinamis yang dilengkapi dengan manajemen memori otomatis.</string>
+    <string name="Python_site">https://www.python.org/</string>
+
+    <string name="Php">Php</string>
+    <string name="Php_born">1995</string>
+    <string name="Php_founder">Rasmus Lerdorf</string>
+    <string name="Php_desc">Php adalah bahasa pemrograman interpretatif multiguna dengan filosofi perancangan yang berfokus pada tingkat keterbacaan kode.</string>
+    <string name="Php_desc_long">Php diklaim sebagai bahasa yang menggabungkan kapabilitas, kemampuan, dengan sintaksis kode yang sangat jelas, dan dilengkapi dengan fungsionalitas pustaka standar yang besar serta komprehensif. Php juga didukung oleh komunitas yang besar. Php mendukung multi paradigma pemrograman, utamanya; namun tidak dibatasi; pada pemrograman berorientasi objek, pemrograman imperatif, dan pemrograman fungsional. Salah satu fitur yang tersedia pada Php adalah sebagai bahasa pemrograman dinamis yang dilengkapi dengan manajemen memori otomatis.</string>
+    <string name="Php_site">https://php.net/</string>
+
+    <string name="Dart">Dart</string>
+    <string name="Dart_born">2011</string>
+    <string name="Dart_founder">Lars Bak</string>
+    <string name="Dart_desc">Dart adalah bahasa pemrograman yang dikembangkan oleh Google untuk kebutuhan umum (general-purpose programming language).</string>
+    <string name="Dart_desc_long">Bahasa pemrograman Dart merupakan bahasa pemrograman general-purpose yang dirancang oleh Lars Bak dan Kasper Lund. Bahasa pemrograman ini dikembangkan sebagai bahasa pemrograman aplikasi yang dapat dengan mudah untuk dipelajari dan disebarkan. Bahasa pemrograman besutan Google ini dapat digunakan untuk mengembangkan berbagai macam platform termasuk di dalamnya adalah web, aplikasi mobile, server, dan perangkat yang mengusung teknologi Internet of Things.</string>
+    <string name="Dart_site">https://dart.dev/</string>
+
+    <string name="Nodejs">Node.js</string>
+    <string name="Nodejs_born">2009</string>
+    <string name="Nodejs_founder">Ryan Lienhart Dahl</string>
+    <string name="Nodejs_desc">Node.js adalah platform perangkat lunak pada sisi-server dan aplikasi jaringan.</string>
+    <string name="Nodejs_desc_long">Node.js adalah platform perangkat lunak pada sisi-server dan aplikasi jaringan. Ditulis dengan bahasa JavaScript dan dijalankan pada Windows, Mac OS X, dan Linux tanpa perubahan kode program. Node.js memiliki pustaka server HTTP sendiri sehingga memungkinkan untuk menjalankan server web tanpa menggunakan program server web seperti Apache atau Lighttpd.</string>
+    <string name="Nodejs_site">https://nodejs.org/</string>
+
+    <string name="Assembly">Assembly</string>
+    <string name="Assembly_born">1949</string>
+    <string name="Assembly_founder">IBM</string>
+    <string name="Assembly_desc">Bahasa rakitan atau lebih umum dikenal sebagai Assembly adalah bahasa pemrograman tingkat rendah.</string>
+    <string name="Assembly_desc_long">Bahasa rakitan atau lebih umum dikenal sebagai Assembly adalah bahasa pemrograman tingkat rendah yang digunakan dalam pemrograman komputer, mikroprosesor, pengendali mikro, dan perangkat lainnya yang dapat diprogram. Bahasa rakitan mengimplementasikan representasi atas kode mesin dalam bentuk simbol-simbol yang secara relatif lebih dapat dipahami oleh manusia. Berbeda halnya dengan bahasa-bahasa tingkat tinggi yang berlaku umum, bahasa rakitan biasanya mendukung secara spesifik untuk suatu ataupun beberapa jenis arsitektur komputer tertentu. Dengan demikian, portabilitas bahasa rakitan tidak dapat menandingi bahasa-bahasa lainnya yang merupakan bahasa pemrograman tingkat tinggi. Namun, bahasa rakitan memungkinkan programmer memanfaatkan secara penuh kemampuan suatu perangkat keras tertentu yang biasanya tidak dapat ataupun terbatas bila dibuat dengan menggunakan bahasa pemrograman tingkat tinggi.</string>
+    <string name="Assembly_site">https://www.google.com/search?q=assembly+language</string>
+
+
+</resources>
